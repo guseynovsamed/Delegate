@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\bin\Debug\net6.0\DelegatePraktiki.exe
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\bin\Debug\net6.0\DelegatePraktiki.deps.json
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\bin\Debug\net6.0\DelegatePraktiki.runtimeconfig.json
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\bin\Debug\net6.0\DelegatePraktiki.dll
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\bin\Debug\net6.0\DelegatePraktiki.pdb
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.dll
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\refint\DelegatePraktiki.dll
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.pdb
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\DelegatePraktiki.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework\Delegate\DelegatePraktiki\DelegatePraktiki\obj\Debug\net6.0\ref\DelegatePraktiki.dll
